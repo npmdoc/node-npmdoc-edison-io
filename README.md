@@ -1,6 +1,6 @@
 # npmdoc-edison-io
 
-#### api documentation for  [edison-io (v0.10.0)](https://github.com/rwaldron/edison-io)  [![npm package](https://img.shields.io/npm/v/npmdoc-edison-io.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-edison-io) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-edison-io.svg)](https://travis-ci.org/npmdoc/node-npmdoc-edison-io)
+#### basic api documentation for  [edison-io (v0.10.0)](https://github.com/rwaldron/edison-io)  [![npm package](https://img.shields.io/npm/v/npmdoc-edison-io.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-edison-io) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-edison-io.svg)](https://travis-ci.org/npmdoc/node-npmdoc-edison-io)
 
 #### Intel Edison & Intel Galileo IO Plugin for Johnny-Five JavaScript Robotics
 
@@ -96,7 +96,8 @@
             },
             "pkgid": "edison-io@0.10.0"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
